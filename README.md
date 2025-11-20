@@ -1,2 +1,3 @@
 # Recherche-et-Documentation-JavaScript
 Recherche et Documentation JavaScript 
+This repository contains my personal documentation of core JavaScript basics, including variables, data types, functions, and conditional instructions. It summarizes what I learned from javascript.com, W3Schools, and Almabetter. The notes cover variable declarations using var, let, and const; primitive and non-primitive data types such as strings, numbers, booleans, null, undefined, objects, and arrays; different kinds of functions including declarations, expressions, and arrow functions; and conditional logic using if, else if, else, and switch statements. This repository serves as a concise reference to review fundamental concepts and track my progress as I continue learning JavaScript.
